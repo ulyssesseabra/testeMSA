@@ -26,3 +26,5 @@ alter table tbNh_telefone add constraint FK_1EA6B907 foreign key (cli_id) refere
 
 ```
 
+### br.com.ussolucoes.persistence
+Biblioteca própria que faz a parte de gestão de sessão e padronização do CRUD e consultas usando NHibernate.
