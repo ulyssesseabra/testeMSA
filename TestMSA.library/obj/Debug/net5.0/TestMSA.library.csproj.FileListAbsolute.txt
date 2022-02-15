@@ -1,0 +1,15 @@
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\TestMSA.library.deps.json
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\TestMSA.library.dll
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\ref\TestMSA.library.dll
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\TestMSA.library.pdb
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\br.com.ussolucoes.persistence.dll
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\bin\Debug\net5.0\br.com.ussolucoes.persistence.pdb
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.csproj.AssemblyReference.cache
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.AssemblyInfoInputs.cache
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.AssemblyInfo.cs
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.csproj.CoreCompileInputs.cache
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.csproj.CopyComplete
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.dll
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\ref\TestMSA.library.dll
+D:\Developer\testes\msa\TesteMSA\TestMSA.library\obj\Debug\net5.0\TestMSA.library.pdb

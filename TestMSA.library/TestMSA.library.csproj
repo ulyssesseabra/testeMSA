@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="map\TestMSA.library\Cliente.hbm.xml" />
+    <None Remove="map\TestMSA.library\EntityNH.hbm.xml" />
+    <None Remove="map\TestMSA.library\Telefone.hbm.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="map\TestMSA.library\Cliente.hbm.xml" />
+    <EmbeddedResource Include="map\TestMSA.library\EntityNH.hbm.xml" />
+    <EmbeddedResource Include="map\TestMSA.library\Telefone.hbm.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="NHibernate" Version="5.3.10" />
+    <PackageReference Include="NHibernate.Mapping.Attributes" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="br.com.ussolucoes.persistence">
+      <HintPath>..\..\..\..\USSolucoes\FrameworkCore\br.com.ussolucoes.persistence\bin\Debug\net5.0\br.com.ussolucoes.persistence.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
